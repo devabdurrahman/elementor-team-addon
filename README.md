@@ -1,1 +1,1 @@
-# elementor-team-addon
+<p>Team member addon for Elementor page builder plugin</p>
